@@ -3,10 +3,10 @@ body {
 }
 
 .image{
-    border: 5px solid green;
-    border-radius: 10px;
-    height: 400px;
-}
+    display: block;
+    width: 60%;
+    margin: auto;
+     }
 
 .link-button {
     text-decoration: none;
