@@ -30,3 +30,9 @@ h1 {
     text-align: center;
     background-color: #91C8E4;
 }
+
+p {
+    font-size: 20px;
+    background-color: #272829;
+    color: #FFF6E0;
+}
