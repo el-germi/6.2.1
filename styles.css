@@ -5,11 +5,13 @@ body {
     justify-content: center;
 }
 
-.image {
-    border: 5px solid green;
-    border-radius: 10px;
-    height: 400px;
-}
+
+.image{
+    display: block;
+    width: 60%;
+    margin: auto;
+     }
+
 
 .link-button {
     text-decoration: none;
