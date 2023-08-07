@@ -23,6 +23,12 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+.link-button{
+    background-color: #4682A9;
+    border: none;
+    color: white;
+}
+
 h1 {
     font-size: 30px;
     color: #4682A9;
